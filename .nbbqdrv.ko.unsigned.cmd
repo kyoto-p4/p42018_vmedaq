@@ -1,0 +1,1 @@
+cmd_/home/p4/work1/daq/2018Jan/nbbqdrv.ko.unsigned := ld -r -m elf_i386 -T /usr/src/kernels/2.6.32-696.3.2.el6.i686/scripts/module-common.lds --build-id -o /home/p4/work1/daq/2018Jan/nbbqdrv.ko.unsigned /home/p4/work1/daq/2018Jan/nbbqdrv.o /home/p4/work1/daq/2018Jan/nbbqdrv.mod.o 

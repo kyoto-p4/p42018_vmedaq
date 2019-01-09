@@ -1,0 +1,126 @@
+RUN0001
+START : Fri Dec 21 13:23:45 2018
+STOP  : Fri Dec 21 13:23:56 2018
+daqtest
+
+
+
+RUN0002
+START : Fri Dec 21 13:31:10 2018
+STOP  : Fri Dec 21 13:31:12 2018
+daqtest
+
+
+
+RUN0003
+START : Fri Dec 21 15:20:34 2018
+STOP  : Fri Dec 21 15:20:42 2018
+daqtest
+
+
+
+RUN0004
+START : Sun Dec 23 17:44:34 2018
+STOP  : Sun Dec 23 17:44:47 2018
+DAQ test w/ MADC pulser
+
+
+
+RUN0005
+START : Sun Dec 23 17:45:28 2018
+STOP  : Sun Dec 23 17:46:45 2018
+DAQ test w/ MADC pulser
+
+
+
+RUN0006
+START : Sun Dec 23 17:59:47 2018
+STOP  : Sun Dec 23 18:00:01 2018
+DAQ test w/ pulser MADC interrupt
+
+
+
+RUN0007
+START : Tue Dec 25 14:46:37 2018
+STOP  : Tue Dec 25 14:46:44 2018
+Test data for anap4 development
+exit
+
+
+RUN0008
+START : Tue Dec 25 14:48:06 2018
+STOP  : Tue Dec 25 14:48:16 2018
+Test data for anap4 development
+
+
+
+RUN0009
+START : Tue Dec 25 16:41:04 2018
+STOP  : Tue Dec 25 16:41:11 2018
+MADC threshold 0xc
+
+
+
+RUN0010
+START : Tue Dec 25 16:44:54 2018
+STOP  : Tue Dec 25 16:45:02 2018
+madc all ch off
+
+
+
+RUN0011
+START : Tue Dec 25 17:38:46 2018
+STOP  : Tue Dec 25 17:41:53 2018
+no foil
+
+
+
+RUN0012
+START : Tue Dec 25 17:58:16 2018
+STOP  : Tue Dec 25 18:04:40 2018
+target6
+
+
+
+RUN0013
+START : Tue Dec 25 18:13:14 2018
+STOP  : Tue Dec 25 18:16:32 2018
+target6 take2
+
+
+
+RUN0014
+START : Tue Dec 25 18:29:02 2018
+STOP  : Tue Dec 25 18:32:22 2018
+target5
+
+
+
+RUN0015
+START : Tue Dec 25 18:42:01 2018
+STOP  : Tue Dec 25 18:45:20 2018
+no foil take2
+
+
+
+RUN0016
+START : Tue Jan  8 23:49:16 2019
+STOP  : Tue Jan  8 23:49:19 2019
+daq test
+
+
+
+RUN0017
+START : Wed Jan  9 12:16:00 2019
+STOP  : Wed Jan  9 12:17:54 2019
+20190109 scaler test 241Am
+
+
+
+RUN0018
+START : Wed Jan  9 20:03:09 2019
+STOP  : Wed Jan  9 20:03:14 2019
+sca test
+
+
+
