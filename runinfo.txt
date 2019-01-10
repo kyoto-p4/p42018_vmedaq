@@ -124,3 +124,31 @@ sca test
 
 
 
+RUN0019
+START : Thu Jan 10 01:41:11 2019
+STOP  : Thu Jan 10 10:13:56 2019
+front DSSD 3a-calib
+
+
+
+RUN0020
+START : Thu Jan 10 13:10:01 2019
+STOP  : Thu Jan 10 13:45:57 2019
+lieality positive pulse 
+
+
+
+RUN0021
+START : Thu Jan 10 13:56:20 2019
+STOP  : Thu Jan 10 14:04:11 2019
+lineality negative pulse
+
+
+
+RUN0022
+START : Thu Jan 10 14:09:42 2019
+STOP  : Thu Jan 10 14:20:55 2019
+lieality negative pulse 2
+
+
+

@@ -26,9 +26,9 @@ void evt(void){
 #endif
 
 #ifdef USE_SCALER
-  init_segment(segid++);
-  v560_segdata(V560_ADR);
-  end_segment();
+//  init_segment(segid++);
+//  v560_segdata(V560_ADR);
+//  end_segment();
 #endif
 
   /* Busy Clear */
